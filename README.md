@@ -8,23 +8,23 @@
 - Add-on to this project is TrapikPaBa, which aims to give real-time traffic situation related to flooding.
 - This is an Open Community Project.
  
-Area of Coverage:
+<h3>Area of Coverage:</h3>
 Metro Manila (initial phase)
 
-Status:
+<h3>Status:</h3>
 Research, Prototyping
 
-Communication Channels:
+<h3>Communication Channels:</h3>
 - Mailing List:
 - Facebook Group:
 - Email [bob@mozillaph.org]
 - Blog:
 
-Collaboration Tools:
+<h3>Collaboration Tools:</h3>
 - Trello:
 - Google Docs:
 
-Coordination:
+<h3>Coordination:</h3>
 - Weekly status reports via email
 - Bi-monthly online calls/meetings via Vidyo, Google Hangout or Skype
 - Project updates via blog articles
