@@ -1,6 +1,6 @@
 # maybahaba
 
-<b>Project Background:</b>
+<h3>Project Background:</h3>
 - During heavy rain, some streets in Metro Manila are flooded easily.
 - One need to search social media channels to check if nearby streets are flooded or not (and are passable to light vehicles, cars).
 - This project aims to bring flood information to a central Twitter account @MayBahaBa
